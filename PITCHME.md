@@ -2,6 +2,8 @@
 
 An application architecture for React
 
+## Welcome to the jungle
+
 #HSLIDE
 
 ### Flux Design
